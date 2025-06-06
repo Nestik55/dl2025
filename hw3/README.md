@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1LR9UIEb3_qtb0DE5mCMGyvR8Fz9MMKrv#scrollTo=j4NTqUDcKOx7
+
 ### Задача №1
 Реализованы в ноутбуке
 
